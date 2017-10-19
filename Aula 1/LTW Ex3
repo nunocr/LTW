@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<html>
+<form>
+<input type="text" name="Name" required="required" disabled>
+<input type="radio" name="Age" value="<18">18<br>
+<input type="radio" name="Age" value="
+<input type="text" name=Profession" required="required" disabled>
+</form>
+
+</html>

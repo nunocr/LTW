@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head> 
+<title> Ex1 P1 LTW </title> 
+</head>
+
+<ul>
+    <li> <a href="https://www.sapo.pt/noticias/desporto">Desporto </a> </li>
+    <li> <a href="https://24.sapo.pt/atualidade">Noticias </a> </li>
+    <li> <a href="https://www.sapo.pt/noticias/economia">Economia </a> </li>
+</ul>
+
+<body>
+ <h1>School Newspaper ou something idk</h1>
+ <h2>Qualquer coisa</h2>
+ <article>
+ <h3> Lorem Ipsum causa sensacao </h3>
+ <p> "Portanto o lorem ipsum tem causado sensaçao apcrentemente e um texto muito bonito que iremos passar a citar mais em baixo ok preparem-se aqui vai ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh </p>
+ <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+ <img src="antonio.jpg" alt="o antonio">
+ <footer>
+    <p>Posted by: euzinho</p>
+    <p>Contact information: 666-666-666</p>
+    <p>28/11/2017
+</footer>
+</article>
+
+ 
+<a href="https://t2.rbxcdn.com/6993954438571d7f8d43cccee87150ca">Boa pic aqui olha</a>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,42 @@
+header {
+  font-family: sans-serif;
+  background-color: #046DD5;
+}
+
+header * {
+  font-family: sans-serif;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#menu * {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+#menu>:nth-child(3) {
+    border-top-style: solid;
+    border-top-color: red;
+}
+
+#menu>:nth-child(4) {
+    border-top-style: solid;
+    border-top-color: green;
+}
+
+#related {
+  font-family: sans-serif;
+  color: white;
+  background-color: #2A2F33;
+  padding: 10px;
+}
+
+#related * {
+  color: white;
+  text-decoration: none;
+}
+
+#news *{
+  text-transform: capitalize;
+}
